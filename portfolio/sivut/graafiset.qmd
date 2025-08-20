@@ -1,0 +1,11 @@
+---
+title: "Graafiset työt"
+image: "Mun logo.png"
+listing: 
+    contents: gkuvat
+    type: grid
+    fields: [title, image]
+---
+
+
+

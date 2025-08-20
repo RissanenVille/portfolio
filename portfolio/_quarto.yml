@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "Ville Rissanen"
+  bread-crumbs: true
+  navbar:
+    collapse: true
+    search: true
+    left:
+      - href: sivut/graafiset.qmd
+        text: Galleria
+      - href: sivut/sivustot.qmd
+        text: Sivustot
+      - href: sivut/kokemus.qmd
+        text: Työkokemus
+      - href: sivut/koulutus.qmd
+        text: Koulutus
+
+
+format:
+  html:
+    theme: 
+      light: [cosmo, light.scss]
+      dark: [cosmo, dark.scss]
+    toc: true
+
+
+

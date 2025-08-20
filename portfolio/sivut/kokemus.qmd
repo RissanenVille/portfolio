@@ -1,0 +1,23 @@
+---
+title: "Työkokemus"
+---
+
+**Graafinen suunnittelija / web-suunnittelija työharjoittelu**
+
+31.10.2024-31.01.2025
+
+-   Kotisivujen ulkoasun suunnittelu Figma:lla
+
+-   Kotisivujen toteutus Wordpress-järjestelmään
+
+-   Wiki-sivujen ulkoasun suunnittelu Quarto-wikialustalle
+
+**Asiakaspalvelija**
+
+20.06.2022 - 13.08.2022, 02.06.2021 -03.07.2021
+
+-   Hyllytys
+
+-   Myynti
+
+-   Asiakaspalvelu
