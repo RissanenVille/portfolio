@@ -1,0 +1,13 @@
+---
+title: "Käyntikortti"
+---
+
+![](/KorttiEtupuoli.png)
+
+Kortin etupuoli
+
+![](/KorttiTakapuoli.png)
+
+Kortin takapuoli
+
+Koulussa graafisen suunnittelun opintojaksolla tuotettu käyntikortti kuvitteellisilla tiedoilla. Tehtävänannossa oli vaatimuksena käyttää useita  erilaisia kuvituksia.

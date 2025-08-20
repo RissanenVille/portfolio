@@ -1,0 +1,17 @@
+---
+title: "Ville Rissanen"
+
+listing:
+    contents:
+        - "graafiset.qmd"
+        - "sivustot.qmd"
+        - "kokemus.qmd"
+        - "koulutus.qmd"
+    type: grid
+    fields: [title, image]
+
+---
+
+
+
+Alapuolelta löytyy minun työkokemukset, koulutukset sekä kaikki projektit ja teokset, jotka olen tehnyt
