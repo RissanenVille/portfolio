@@ -1,0 +1,16 @@
+---
+title: "Kuntosalisovellus"
+---
+
+Ohjelmointiopintojaksolla tuotettu kkuntosalisovellus, jota olen kehittänyt eteennpäin omalla ajallani hieman. Tiedot tallentuvat localstorageen, joten tallennetut tiedot voivat kadota. 
+
+Käytetyt kielet:
+
+Typescript
+
+HTML ja CSS
+
+![](/kuntosali.png)
+
+Linkki verkkosovellukseen:
+https://dviri001xamk.github.io/Paras_kuntosalisovellus/#/

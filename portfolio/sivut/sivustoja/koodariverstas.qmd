@@ -1,0 +1,17 @@
+---
+title: "Koodariverstas"
+---
+
+Työharjoitteluna toteutettu Koodariverstaan verkkosivujen visuaalisen ilmeen suunnittelu ja toteutus annetun tyyliohjeistuksen mukaan. Näkyvät tarrat ja kuvat eivät ole minun suunnittelemia vaan ne annettiin minun käyttöön muilta työntekijöiltä. Tekstit eivät ole minun tuotoksia vaan muiden työntekijöiden.
+
+Käytetyt ohjelmat:
+
+WordPress
+
+Figma
+
+![](/koodariverstasT.png)
+
+![](/Koodariverstas-sivu001.png)
+
+![](/sertifikaatti_koodari.png)

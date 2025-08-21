@@ -4,12 +4,13 @@ project:
 website:
   title: "Ville Rissanen"
   bread-crumbs: true
+  
   navbar:
     collapse: true
     search: true
     left:
       - href: sivut/graafiset.qmd
-        text: Galleria
+        text: Graafiset työt
       - href: sivut/sivustot.qmd
         text: Sivustot
       - href: sivut/kokemus.qmd
@@ -20,6 +21,7 @@ website:
 
 format:
   html:
+    page-layout: full
     theme: 
       light: [cosmo, light.scss]
       dark: [cosmo, dark.scss]

@@ -1,5 +1,6 @@
 ---
 title: "Koulutukset"
+image: "koulutusk.png"
 ---
 
 **Kaakkois-Suomen Ammattikorkeakoulu 2023-**

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Ville Rissanen",
     "section": "",
-    "text": "Alapuolelta löytyy minun työkokemukset, koulutukset sekä kaikki projektit ja teokset, jotka olen tehnyt\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGraafiset työt\n\n\n\n\n\n\n\n\n\n\n\nKoulutukset\n\n\n\n\n\n\n\n\n\n\n\nTyökokemus\n\n\n\n\n\n\n\n\n\n\n\nVerkkosivustot\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Alapuolelta löytyy minun työkokemukset, koulutukset sekä kaikki projektit ja teokset, jotka olen tehnyt\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGraafiset työt\n\n\n\n\n\n\n\n\n\n\n\n\n\nKoulutukset\n\n\n\n\n\n\n\n\n\n\n\n\n\nTyökokemus\n\n\n\n\n\n\n\n\n\n\n\n\n\nVerkkosivustot\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -74,27 +74,48 @@
     "href": "sivut/gkuvat/infojuliste.html",
     "title": "Info juliste",
     "section": "",
-    "text": "Koulussa graafisen suunnittelun opintojaksolla tuotettu kuvitteellinen juliste."
+    "text": "Koulussa graafisen suunnittelun opintojaksolla tuotettu juliste."
   },
   {
     "objectID": "sivut/gkuvat/kayntikortti.html",
     "href": "sivut/gkuvat/kayntikortti.html",
     "title": "Käyntikortti",
     "section": "",
-    "text": "Kortin etupuoli\n\nKortin takapuoli\nKoulussa graafisen suunnittelun opintojaksolla tuotettu käyntikortti kuvitteellisilla tiedoilla."
+    "text": "Kortin etupuoli\n\nKortin takapuoli\nKoulussa graafisen suunnittelun opintojaksolla tuotettu käyntikortti kuvitteellisilla tiedoilla. Tehtävänannossa oli vaatimuksena käyttää useita erilaisia kuvituksia."
   },
   {
     "objectID": "sivut/gkuvat/minakuva.html",
     "href": "sivut/gkuvat/minakuva.html",
     "title": "Minäkuva",
     "section": "",
-    "text": "Koulussa graafisen suunnittelun opintojaksolla tuotettu kuva itsestäni."
+    "text": "Koulussa graafisen suunnittelun opintojaksolla tuotettu kuva itsestäni ohjeistetulla tyylillä."
   },
   {
     "objectID": "sivut/sivustot.html",
     "href": "sivut/sivustot.html",
     "title": "Verkkosivustot",
     "section": "",
-    "text": "Tällä sivulla näkyy minun tekemät verkkosivut. Mukana on minun omia projekteja, sekä yrityksille tehtyjä projekteja."
+    "text": "Tällä sivulla näkyy minun tekemät verkkosivut. Mukana on minun omia projekteja, sekä yrityksille tehtyjä projekteja.\n\n\n\n\n\n\n\n\n\n\n\n\nKoodariverstas\n\n\n\n\n\n\n\n\n\n\n\nKuntosalisovellus\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "sivut/sivustoja/testi.html",
+    "href": "sivut/sivustoja/testi.html",
+    "title": "Koodariverstas",
+    "section": "",
+    "text": "Työharjoitteluna toteutettu Koodariverstaan verkkosivujen ulkonäön suunnittelu ja toteutus annetun tyyliohjeistuksen mukaan. Näkyvät tarrat ja kuvat eivät ole minun suunnittelemia vaan ne annettiin minun käyttöön.\nKäytetyt ohjelmat: WordPress Figma"
+  },
+  {
+    "objectID": "sivut/sivustoja/koodariverstas.html",
+    "href": "sivut/sivustoja/koodariverstas.html",
+    "title": "Koodariverstas",
+    "section": "",
+    "text": "Työharjoitteluna toteutettu Koodariverstaan verkkosivujen visuaalisen ilmeen suunnittelu ja toteutus annetun tyyliohjeistuksen mukaan. Näkyvät tarrat ja kuvat eivät ole minun suunnittelemia vaan ne annettiin minun käyttöön muilta työntekijöiltä. Tekstit eivät ole minun tuotoksia vaan muiden työntekijöiden.\nKäytetyt ohjelmat:\nWordPress\nFigma"
+  },
+  {
+    "objectID": "sivut/sivustoja/kuntosali.html",
+    "href": "sivut/sivustoja/kuntosali.html",
+    "title": "Kuntosalisovellus",
+    "section": "",
+    "text": "Ohjelmointiopintojaksolla tuotettu kkuntosalisovellus, jota olen kehittänyt eteennpäin omalla ajallani hieman. Tiedot tallentuvat localstorageen, joten tallennetut tiedot voivat kadota.\nKäytetyt kielet:\nTypescript\nHTML ja CSS\n\nLinkki verkkosovellukseen: https://dviri001xamk.github.io/Paras_kuntosalisovellus/#/"
   }
 ]

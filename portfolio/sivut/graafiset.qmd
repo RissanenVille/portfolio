@@ -1,6 +1,6 @@
 ---
 title: "Graafiset työt"
-image: "Mun logo.png"
+image: "KorttiTakapuoli.png"
 listing: 
     contents: gkuvat
     type: grid

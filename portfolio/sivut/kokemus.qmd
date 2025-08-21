@@ -1,5 +1,6 @@
 ---
 title: "Työkokemus"
+image: "tyokokemusk.png"
 ---
 
 **Graafinen suunnittelija / web-suunnittelija työharjoittelu**
