@@ -1,0 +1,28 @@
+[
+  {
+    "listing": "/sivut/sivustot.html",
+    "items": [
+      "/sivut/sivustoja/koodariverstas.html",
+      "/sivut/sivustoja/kuntosali.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/sivut/graafiset.html",
+      "/sivut/koulutus.html",
+      "/sivut/kokemus.html",
+      "/sivut/sivustot.html"
+    ]
+  },
+  {
+    "listing": "/sivut/graafiset.html",
+    "items": [
+      "/sivut/gkuvat/ffjuliste.html",
+      "/sivut/gkuvat/infojuliste.html",
+      "/sivut/gkuvat/kissa.html",
+      "/sivut/gkuvat/kayntikortti.html",
+      "/sivut/gkuvat/minakuva.html"
+    ]
+  }
+]
