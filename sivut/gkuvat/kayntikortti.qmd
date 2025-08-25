@@ -2,11 +2,11 @@
 title: "Käyntikortti"
 ---
 
-![](/KorttiEtupuoli.png)
+![](/KorttiEtupuoli2.png)
 
 Kortin etupuoli
 
-![](/KorttiTakapuoli.png)
+![](/KorttiTakapuoli2.png)
 
 Kortin takapuoli
 
