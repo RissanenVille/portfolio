@@ -9,9 +9,8 @@ listing:
         - "koulutus.qmd"
     type: grid
     fields: [title, image]
-
 ---
 
+**Ota yhteyttä: ville.rissanen02\@gmail.com**
 
-
-Alapuolelta löytyy minun työkokemukset, koulutukset sekä kaikki projektit ja teokset, jotka olen tehnyt
+Alapuolelta löytyy minun työkokemukset, koulutukset sekä kaikki projektit ja teokset, jotka olen tehnyt.
