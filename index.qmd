@@ -13,4 +13,15 @@ listing:
 
 **Ota yhteyttä: ville.rissanen02\@gmail.com**
 
-Alapuolelta löytyy minun työkokemukset, koulutukset sekä kaikki projektit ja teokset, jotka olen tehnyt.
+Olen Ville Rissanen, tietojenkäsittelyn kolmannen vuoden opiskelija. Tykkään ohjelmoinnista ja etenkin visuaalisesta suunnittelusta. Yritän jatkuvasti kehittää itseäni ja opettelen aina jotain uutta.
+
+Alapuolelta löytyy minun työkokemukset, koulutukset sekä kaikki projektit ja teokset, jotka olen tehnyt. Lisäksi alapuolelta löyyy taulukko, jossa näkyy ohjelmointikielet, joita olen oppinut.
+
+| Kieli      | Osaamisen taso |
+|------------|----------------|
+| Typescript | Hyvä           |
+| Javascript | Hyvä           |
+| HTML       | Sujuva         |
+| CSS        | Sujuva         |
+| Ruby       | Perusteet      |
+| YAML       | Hyvä           |
