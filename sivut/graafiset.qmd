@@ -1,5 +1,5 @@
 ---
-title: "Graafiset työt"
+title: "Graafiset työt / Graphic designs"
 image: "KorttiTakapuoli.png"
 listing: 
     contents: gkuvat

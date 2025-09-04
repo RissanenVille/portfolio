@@ -1,5 +1,5 @@
 ---
-title: "Työkokemus"
+title: "Työkokemus / Experience"
 image: "tyokokemusk.png"
 ---
 

@@ -1,7 +1,9 @@
 ---
-title: "Minäkuva"
+title: "Minäkuva / Picture of me"
 ---
 
 ![](/Oppimistehtava_4_Rissanen.png)
 
 Koulussa graafisen suunnittelun opintojaksolla tuotettu kuva itsestäni ohjeistetulla tyylillä.
+
+Image made in schools graphic design course with specific style.
