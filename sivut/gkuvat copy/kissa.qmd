@@ -1,0 +1,7 @@
+---
+title: "Cat picture"
+---
+
+![](/Oppimistehtava_5_Rissanen.png)
+
+Image made in schools graphic design course of a cat in moonlight.

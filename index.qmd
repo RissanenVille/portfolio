@@ -13,19 +13,17 @@ listing:
 
 **Ota yhteyttä / contact me: ville.rissanen02\@gmail.com**
 
+***Unfortunately the top navigation only navigates to Finnish pages at the moment (except the Eng link). Sorry for the inconvenience.***
+
 Olen Ville Rissanen, tietojenkäsittelyn kolmannen vuoden opiskelija. Tykkään ohjelmoinnista ja etenkin visuaalisesta suunnittelusta. Yritän jatkuvasti kehittää itseäni ja opettelen aina jotain uutta.
 
 Alapuolelta löytyy minun työkokemukset, koulutukset sekä kaikki projektit ja teokset, jotka olen tehnyt. Lisäksi alapuolelta löyyy taulukko, jossa näkyy ohjelmointikielet, joita olen oppinut.
 
-I am Ville Rissanen, a third-year student completing my bachelor's degree in business administration in the degree programme in Business Information Technology. I like programming. Especially visual designing work. I constantly try to improve myself and I am always learning something new.
-
-Below you can find my projects and work I have done. Addittionally you can find a chart that shows the programming languages I know.
-
-| Kieli / Language | Osaamisen taso / My skill |
-|------------------|---------------------------|
-| Typescript       | Hyvä / Good               |
-| Javascript       | Hyvä / Good               |
-| HTML             | Sujuva / Decent           |
-| CSS              | Sujuva / Decent           |
-| Ruby             | Perusteet / Basics        |
-| YAML             | Hyvä / Good               |
+| Kieli      | Osaamisen taso |
+|------------|----------------|
+| Typescript | Hyvä           |
+| Javascript | Hyvä           |
+| HTML       | Sujuva         |
+| CSS        | Sujuva         |
+| Ruby       | Perusteet      |
+| YAML       | Hyvä           |

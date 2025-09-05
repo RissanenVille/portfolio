@@ -1,0 +1,29 @@
+---
+title: "Ville Rissanen"
+
+listing:
+    contents:
+        - "graafiset copy.qmd"
+        - "sivustot copy.qmd"
+        - "kokemus copy.qmd"
+        - "koulutus copy.qmd"
+    type: grid
+    fields: [title, image]
+---
+
+**Ota yhteyttä / contact me: ville.rissanen02\@gmail.com**
+
+***Unfortunately the top navigation only navigates to Finnish pages at the moment (except the Eng link). Sorry for the inconvenience.***
+
+I am Ville Rissanen, a third-year student completing my bachelor's degree in business administration in the degree programme in Business Information Technology. I like programming. Especially visual designing work. I constantly try to improve myself and I am always learning something new.
+
+Below you can find my projects and work I have done. Additionally you can find a chart that shows the programming languages I know.
+
+| Language   | My skill |
+|------------|----------|
+| Typescript | Good     |
+| Javascript | Good     |
+| HTML       | Decent   |
+| CSS        | Decent   |
+| Ruby       | Basics   |
+| YAML       | Good     |

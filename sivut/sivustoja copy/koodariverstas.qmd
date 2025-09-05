@@ -1,0 +1,17 @@
+---
+title: "Koodariverstas"
+---
+
+Koodariverstas' web pages' visual design and execution with given visual instructions and guidelines. Visible stickers and images are not my work and they were given to me to use by Koodariverstas. Texts are not produced by me. The texts are also from workers from Koodariverstas.
+
+Used tools:
+
+WordPress
+
+Figma
+
+![](/koodariverstasT.png)
+
+![](/Koodariverstas-sivu001.png)
+
+![](/sertifikaatti_koodari.png)

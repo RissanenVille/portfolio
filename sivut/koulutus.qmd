@@ -1,5 +1,5 @@
 ---
-title: "Koulutukset / Education"
+title: "Koulutukset"
 image: "koulutusk.png"
 ---
 

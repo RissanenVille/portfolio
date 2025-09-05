@@ -1,9 +1,7 @@
 ---
-title: "Kissa kuva / Cat picture"
+title: "Kissa kuva"
 ---
 
 ![](/Oppimistehtava_5_Rissanen.png)
 
 Koulussa graafisen suunnittelun opintojaksolla tuotettu kuva kissasta kuunvalossa.
-
-Image made in schools graphic design course of a cat in moonlight.

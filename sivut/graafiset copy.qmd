@@ -1,8 +1,8 @@
 ---
-title: "Graafiset työt"
+title: "Graphic designs"
 image: "KorttiTakapuoli.png"
 listing: 
-    contents: gkuvat
+    contents: gkuvat copy
     type: grid
     fields: [title, image]
 ---

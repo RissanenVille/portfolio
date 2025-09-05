@@ -1,0 +1,7 @@
+---
+title: "Picture of me"
+---
+
+![](/Oppimistehtava_4_Rissanen.png)
+
+Image made in schools graphic design course with specific style.

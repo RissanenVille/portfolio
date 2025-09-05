@@ -18,6 +18,11 @@ website:
         text: Työkokemus
       - href: sivut/koulutus.qmd
         text: Koulutus
+    right: 
+      - href: index.qmd
+        text: Fin
+      - href: index copy.qmd
+        text: Eng
 
 
 format:

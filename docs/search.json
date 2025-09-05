@@ -2,16 +2,16 @@
   {
     "objectID": "sivut/sivustot.html",
     "href": "sivut/sivustot.html",
-    "title": "Verkkosivustot / Websites",
+    "title": "Verkkosivustot",
     "section": "",
-    "text": "Tällä sivulla näkyy minun tekemät verkkosivut. Mukana on minun omia projekteja, sekä yrityksille tehtyjä projekteja.\nHere you can see websites thaat I have made. There are my own websites and websites made for customers / companies.\n\n\n\n\n\n\n\n\n\n\n\n\nKoodariverstas\n\n\n\n\n\n\n\n\n\n\n\nKuntosalisovellus\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Tällä sivulla näkyy minun tekemät verkkosivut. Mukana on minun omia projekteja, sekä yrityksille tehtyjä projekteja.\n\n\n\n\n\n\n\n\n\n\n\n\nKoodariverstas\n\n\n\n\n\n\n\n\n\n\n\nKuntosalisovellus\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "sivut/sivustoja/koodariverstas.html",
     "href": "sivut/sivustoja/koodariverstas.html",
     "title": "Koodariverstas",
     "section": "",
-    "text": "Työharjoitteluna toteutettu Koodariverstaan verkkosivujen visuaalisen ilmeen suunnittelu ja toteutus annetun tyyliohjeistuksen mukaan. Näkyvät tarrat ja kuvat eivät ole minun suunnittelemia vaan ne annettiin minun käyttöön muilta työntekijöiltä. Tekstit eivät ole minun tuotoksia vaan muiden työntekijöiden.\nKäytetyt ohjelmat:\nWordPress\nFigma"
+    "text": "Työharjoitteluna toteutettu Koodariverstaan verkkosivujen visuaalisen ilmeen suunnittelu ja toteutus annetun tyyliohjeistuksen mukaan. Näkyvät tarrat ja kuvat eivät ole minun suunnittelemia vaan ne annettiin minun käyttöön muilta työntekijöiltä. Tekstit eivät ole minun tuotoksia vaan muiden työntekijöiden.\nKoodariverstas’ web pages’ visual design and execution with given visual instructions and guidelines. Visible stickers and images are not my work and they were given to me to use by Koodariverstas. Texts are not produced by me. The texts are also from workers from Koodariverstas.\nKäytetyt ohjelmat / Used tools:\nWordPress\nFigma"
   },
   {
     "objectID": "sivut/kokemus.html",
@@ -46,7 +46,7 @@
     "href": "index.html",
     "title": "Ville Rissanen",
     "section": "",
-    "text": "Ota yhteyttä / contact me: ville.rissanen02@gmail.com\nOlen Ville Rissanen, tietojenkäsittelyn kolmannen vuoden opiskelija. Tykkään ohjelmoinnista ja etenkin visuaalisesta suunnittelusta. Yritän jatkuvasti kehittää itseäni ja opettelen aina jotain uutta.\nAlapuolelta löytyy minun työkokemukset, koulutukset sekä kaikki projektit ja teokset, jotka olen tehnyt. Lisäksi alapuolelta löyyy taulukko, jossa näkyy ohjelmointikielet, joita olen oppinut.\nI am Ville Rissanen, a third-year student completing my bachelor’s degree in business administration in the degree programme in Business Information Technology. I like programming. Especially visual designing work. I constantly try to improve myself and I am always learning something new.\nBelow you can find my projects and work I have done. Addittionally you can find a chart that shows the programming languages I know.\n\n\n\nKieli / Language\nOsaamisen taso / My skill\n\n\n\n\nTypescript\nHyvä / Good\n\n\nJavascript\nHyvä / Good\n\n\nHTML\nSujuva / Decent\n\n\nCSS\nSujuva / Decent\n\n\nRuby\nPerusteet / Basics\n\n\nYAML\nHyvä / Good\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGraafiset työt / Graphic designs\n\n\n\n\n\n\n\n\n\n\n\n\n\nKoulutukset / Education\n\n\n\n\n\n\n\n\n\n\n\n\n\nTyökokemus\n\n\n\n\n\n\n\n\n\n\n\n\n\nVerkkosivustot / Websites\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Ota yhteyttä / contact me: ville.rissanen02@gmail.com\nUnfortunately the top navigation only navigates to Finnish pages at the moment (except the Eng link). Sorry for the inconvenience.\nOlen Ville Rissanen, tietojenkäsittelyn kolmannen vuoden opiskelija. Tykkään ohjelmoinnista ja etenkin visuaalisesta suunnittelusta. Yritän jatkuvasti kehittää itseäni ja opettelen aina jotain uutta.\nAlapuolelta löytyy minun työkokemukset, koulutukset sekä kaikki projektit ja teokset, jotka olen tehnyt. Lisäksi alapuolelta löyyy taulukko, jossa näkyy ohjelmointikielet, joita olen oppinut.\n\n\n\nKieli\nOsaamisen taso\n\n\n\n\nTypescript\nHyvä\n\n\nJavascript\nHyvä\n\n\nHTML\nSujuva\n\n\nCSS\nSujuva\n\n\nRuby\nPerusteet\n\n\nYAML\nHyvä\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGraafiset työt\n\n\n\n\n\n\n\n\n\n\n\n\n\nKoulutukset\n\n\n\n\n\n\n\n\n\n\n\n\n\nTyökokemus\n\n\n\n\n\n\n\n\n\n\n\n\n\nVerkkosivustot\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "sivut/gkuvat/infojuliste.html",
@@ -58,29 +58,113 @@
   {
     "objectID": "sivut/gkuvat/kissa.html",
     "href": "sivut/gkuvat/kissa.html",
-    "title": "Kissa kuva",
+    "title": "Kissa kuva / Cat picture",
     "section": "",
     "text": "Koulussa graafisen suunnittelun opintojaksolla tuotettu kuva kissasta kuunvalossa.\nImage made in schools graphic design course of a cat in moonlight."
   },
   {
     "objectID": "sivut/graafiset.html",
     "href": "sivut/graafiset.html",
-    "title": "Graafiset työt / Graphic designs",
+    "title": "Graafiset työt",
     "section": "",
-    "text": "Family Fest juliste / Family Fest poster\n\n\n\n\n\n\n\n\n\n\n\nInfo juliste / Informational poster\n\n\n\n\n\n\n\n\n\n\n\nKissa kuva / Cat picture\n\n\n\n\n\n\n\n\n\n\n\nKäyntikortti / Business card\n\n\n\n\n\n\n\n\n\n\n\nMinäkuva / Picture of me\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Family Fest juliste\n\n\n\n\n\n\n\n\n\n\n\nInfo juliste\n\n\n\n\n\n\n\n\n\n\n\nKissa kuva\n\n\n\n\n\n\n\n\n\n\n\nKäyntikortti\n\n\n\n\n\n\n\n\n\n\n\nMinäkuva\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "sivut/koulutus.html",
     "href": "sivut/koulutus.html",
-    "title": "Koulutukset / Education",
+    "title": "Koulutukset",
     "section": "",
     "text": "Kaakkois-Suomen Ammattikorkeakoulu 2023-\nTradenomi (AMK)\nLiiketalouden ammattikorkeakoulu\nTietojenkäsittelyn koulutus\nEtelä-Savon Ammattiopisto 14.03.2022-30.06.2022\nPalkanlaskenta 30 osp\nEtelä-Savon Ammattiopisto 2018-2021\nLiiketoimminnan perustutkinto, 180 osp, merkonomi"
   },
   {
     "objectID": "sivut/sivustoja/kuntosali.html",
     "href": "sivut/sivustoja/kuntosali.html",
+    "title": "Gym app",
+    "section": "",
+    "text": "Ohjelmointiopintojaksolla tuotettu kkuntosalisovellus, jota olen kehittänyt eteennpäin omalla ajallani hieman. Tiedot tallentuvat localstorageen, joten tallennetut tiedot voivat kadota. Tämän takia tämä sovellus ei sovellu jokapäiväiseen käyttöön.\nA gym web app produced in a programming course, that I have improved a little after. The data is stored in localstorage so the data can disappear sometimes and for that reason this is not fully working for everyday use.\nKäytetyt kielet / Used languages:\nTypescript\nHTML & CSS\n\nLinkki verkkosovellukseen: https://dviri001xamk.github.io/Paras_kuntosalisovellus/#/"
+  },
+  {
+    "objectID": "index copy.html",
+    "href": "index copy.html",
+    "title": "Ville Rissanen",
+    "section": "",
+    "text": "Ota yhteyttä / contact me: ville.rissanen02@gmail.com\nUnfortunately the top navigation only navigates to Finnish pages at the moment (except the Eng link). Sorry for the inconvenience.\nI am Ville Rissanen, a third-year student completing my bachelor’s degree in business administration in the degree programme in Business Information Technology. I like programming. Especially visual designing work. I constantly try to improve myself and I am always learning something new.\nBelow you can find my projects and work I have done. Additionally you can find a chart that shows the programming languages I know.\n\n\n\nLanguage\nMy skill\n\n\n\n\nTypescript\nGood\n\n\nJavascript\nGood\n\n\nHTML\nDecent\n\n\nCSS\nDecent\n\n\nRuby\nBasics\n\n\nYAML\nGood\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEducation\n\n\n\n\n\n\n\n\n\n\n\n\n\nExperience\n\n\n\n\n\n\n\n\n\n\n\n\n\nGraphic designs\n\n\n\n\n\n\n\n\n\n\n\n\n\nWebsites\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "sivut/sivustoja copy/kuntosali.html",
+    "href": "sivut/sivustoja copy/kuntosali.html",
     "title": "Kuntosalisovellus",
     "section": "",
-    "text": "Ohjelmointiopintojaksolla tuotettu kkuntosalisovellus, jota olen kehittänyt eteennpäin omalla ajallani hieman. Tiedot tallentuvat localstorageen, joten tallennetut tiedot voivat kadota.\nKäytetyt kielet:\nTypescript\nHTML ja CSS\n\nLinkki verkkosovellukseen: https://dviri001xamk.github.io/Paras_kuntosalisovellus/#/"
+    "text": "A gym web app produced in a programming course, that I have improved a little after. The data is stored in localstorage so the data can disappear sometimes and for that reason this is not fully working for everyday use.\nUsed languages:\nTypescript\nHTML & CSS\n\nLink to web app: https://dviri001xamk.github.io/Paras_kuntosalisovellus/#/"
+  },
+  {
+    "objectID": "sivut/kokemus copy.html",
+    "href": "sivut/kokemus copy.html",
+    "title": "Työkokemus / Experience",
+    "section": "",
+    "text": "Graphic designer / web designer internship\nXAMK\n31.10.2024-31.01.2025\n\nDesigning UI/UX for new website with Figma\nCreating the home pages with WordPress\nDesigning wiki-pages with Quarto\n\nCustomer service\nOsmotex Oy\n20.06.2022 - 13.08.2022, 02.06.2021 -03.07.2021\n\nShelving\nSales\nCustomer service"
+  },
+  {
+    "objectID": "sivut/gkuvat copy/minakuva.html",
+    "href": "sivut/gkuvat copy/minakuva.html",
+    "title": "Picture of me",
+    "section": "",
+    "text": "Image made in schools graphic design course with specific style."
+  },
+  {
+    "objectID": "sivut/gkuvat copy/kayntikortti.html",
+    "href": "sivut/gkuvat copy/kayntikortti.html",
+    "title": "Business card",
+    "section": "",
+    "text": "Front side\n\nBackside\nImage made in schools graphic design course of a business card with fake information. The assignment had us use variety of different images."
+  },
+  {
+    "objectID": "sivut/gkuvat copy/ffjuliste.html",
+    "href": "sivut/gkuvat copy/ffjuliste.html",
+    "title": "Family Fest poster",
+    "section": "",
+    "text": "Image made in schools graphic design course of a fictional event poster."
+  },
+  {
+    "objectID": "sivut/gkuvat copy/infojuliste.html",
+    "href": "sivut/gkuvat copy/infojuliste.html",
+    "title": "Informational poster",
+    "section": "",
+    "text": "Image made in schools graphic design course of a informational poster."
+  },
+  {
+    "objectID": "sivut/gkuvat copy/kissa.html",
+    "href": "sivut/gkuvat copy/kissa.html",
+    "title": "Cat picture",
+    "section": "",
+    "text": "Image made in schools graphic design course of a cat in moonlight."
+  },
+  {
+    "objectID": "sivut/graafiset copy.html",
+    "href": "sivut/graafiset copy.html",
+    "title": "Graafiset työt / Graphic designs",
+    "section": "",
+    "text": "Business card\n\n\n\n\n\n\n\n\n\n\n\nCat picture\n\n\n\n\n\n\n\n\n\n\n\nFamily Fest poster\n\n\n\n\n\n\n\n\n\n\n\nInformational poster\n\n\n\n\n\n\n\n\n\n\n\nPicture of me\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "sivut/koulutus copy.html",
+    "href": "sivut/koulutus copy.html",
+    "title": "Koulutukset / Education",
+    "section": "",
+    "text": "South-Eastern Finland Univerity of Applied Sciences 2023-\nBachelor’s degree in Business Administration in the degree programme in Business Information Technology\nSouth Savo Vocational College 14.03.2022-30.06.2022\nPayroll management\nSouth Savo Vocational College 2018-2021\nVocational Qualification in Business"
+  },
+  {
+    "objectID": "sivut/sivustoja copy/koodariverstas.html",
+    "href": "sivut/sivustoja copy/koodariverstas.html",
+    "title": "Koodariverstas",
+    "section": "",
+    "text": "Koodariverstas’ web pages’ visual design and execution with given visual instructions and guidelines. Visible stickers and images are not my work and they were given to me to use by Koodariverstas. Texts are not produced by me. The texts are also from workers from Koodariverstas.\nUsed tools:\nWordPress\nFigma"
+  },
+  {
+    "objectID": "sivut/sivustot copy.html",
+    "href": "sivut/sivustot copy.html",
+    "title": "Verkkosivustot / Websites",
+    "section": "",
+    "text": "Here you can see websites that I have made. There are my own websites and websites made for customers / companies.\n\n\n\n\n\n\n\n\n\n\n\n\nKoodariverstas\n\n\n\n\n\n\n\n\n\n\n\nKuntosalisovellus\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

@@ -24,5 +24,31 @@
       "/sivut/gkuvat/kayntikortti.html",
       "/sivut/gkuvat/minakuva.html"
     ]
+  },
+  {
+    "listing": "/index copy.html",
+    "items": [
+      "/sivut/koulutus copy.html",
+      "/sivut/kokemus copy.html",
+      "/sivut/graafiset copy.html",
+      "/sivut/sivustot copy.html"
+    ]
+  },
+  {
+    "listing": "/sivut/graafiset copy.html",
+    "items": [
+      "/sivut/gkuvat copy/kayntikortti.html",
+      "/sivut/gkuvat copy/kissa.html",
+      "/sivut/gkuvat copy/ffjuliste.html",
+      "/sivut/gkuvat copy/infojuliste.html",
+      "/sivut/gkuvat copy/minakuva.html"
+    ]
+  },
+  {
+    "listing": "/sivut/sivustot copy.html",
+    "items": [
+      "/sivut/sivustoja copy/koodariverstas.html",
+      "/sivut/sivustoja copy/kuntosali.html"
+    ]
   }
 ]

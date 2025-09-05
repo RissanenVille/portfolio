@@ -2,13 +2,13 @@
 title: "Kuntosalisovellus"
 ---
 
-Ohjelmointiopintojaksolla tuotettu kkuntosalisovellus, jota olen kehittänyt eteennpäin omalla ajallani hieman. Tiedot tallentuvat localstorageen, joten tallennetut tiedot voivat kadota. 
+Ohjelmointiopintojaksolla tuotettu kkuntosalisovellus, jota olen kehittänyt eteennpäin omalla ajallani hieman. Tiedot tallentuvat localstorageen, joten tallennetut tiedot voivat kadota. Tämän takia tämä sovellus ei sovellu jokapäiväiseen käyttöön. 
 
 Käytetyt kielet:
 
 Typescript
 
-HTML ja CSS
+HTML & CSS
 
 ![](/kuntosali.png)
 

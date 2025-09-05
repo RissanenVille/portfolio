@@ -1,0 +1,16 @@
+---
+title: "Gym app"
+---
+
+A gym web app produced in a programming course, that I have improved a little after. The data is stored in localstorage so the data can disappear sometimes and for that reason this is not fully working for everyday use.
+
+Used languages:
+
+Typescript
+
+HTML & CSS
+
+![](/kuntosali.png)
+
+Link to web app:
+https://dviri001xamk.github.io/Paras_kuntosalisovellus/#/

@@ -1,5 +1,5 @@
 ---
-title: "Verkkosivustot / Websites"
+title: "Verkkosivustot"
 image: "wwwkuva.png"
 listing: 
     contents: sivustoja
@@ -7,5 +7,3 @@ listing:
     fields: [title, image]
 ---
 Tällä sivulla näkyy minun tekemät verkkosivut. Mukana on minun omia projekteja, sekä yrityksille tehtyjä projekteja.
-
-Here you can see websites thaat I have made. There are my own websites and websites made for customers / companies.
