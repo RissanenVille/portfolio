@@ -3,6 +3,16 @@ title: "Experience"
 image: "tyokokemusk.png"
 ---
 
+**App Design internship**
+
+Modultime Oy
+
+06.10.2025-28.11.2025
+
+-   Requirements specification
+
+-   Creating a demo app
+
 **Graphic designer / web designer internship**
 
 XAMK

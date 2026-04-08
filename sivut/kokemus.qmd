@@ -3,7 +3,19 @@ title: "Työkokemus"
 image: "tyokokemusk.png"
 ---
 
+**Sovellus Design työharjoittelu**
+
+Modultime Oy
+
+06.10.2025-28.11.2025
+
+-   Vaatimusmäärittelyn luonti
+
+-   Sovelluksen demon luonti
+
 **Graafinen suunnittelija / web-suunnittelija työharjoittelu**
+
+XAMK
 
 31.10.2024-31.01.2025
 
@@ -14,6 +26,8 @@ image: "tyokokemusk.png"
 -   Wiki-sivujen ulkoasun suunnittelu Quarto-wikialustalle
 
 **Asiakaspalvelija**
+
+Osmotex Oy
 
 20.06.2022 - 13.08.2022, 02.06.2021 -03.07.2021
 
