@@ -10,19 +10,12 @@ website:
     collapse: true
     search: true
     left:
-      - href: sivut/graafiset.qmd
-        text: Graafiset työt
       - href: sivut/sivustot.qmd
-        text: Sivustot
+        text: Sivustot ja sovellukset
       - href: sivut/kokemus.qmd
         text: Työkokemus
       - href: sivut/koulutus.qmd
         text: Koulutus
-    right: 
-      - href: index.qmd
-        text: Fin
-      - href: index copy.qmd
-        text: Eng
 
 
 format:

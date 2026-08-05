@@ -1,5 +1,5 @@
 ---
-title: "Verkkosivustot"
+title: "Verkkosivustot ja sovellukset"
 image: "wwwkuva.png"
 listing: 
     contents: sivustoja

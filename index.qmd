@@ -3,7 +3,6 @@ title: "Ville Rissanen"
 
 listing:
     contents:
-        - "graafiset.qmd"
         - "sivustot.qmd"
         - "kokemus.qmd"
         - "koulutus.qmd"
@@ -11,11 +10,10 @@ listing:
     fields: [title, image]
 ---
 
-**Ota yhteyttä / contact me: ville.rissanen02\@gmail.com**
+**Ota yhteyttä: ville.rissanen02\@gmail.com**
 
-***Unfortunately the top navigation only navigates to Finnish pages at the moment (except the Eng link). Sorry for the inconvenience.***
 
-Olen Ville Rissanen, tietojenkäsittelyn kolmannen vuoden opiskelija. Tykkään ohjelmoinnista ja etenkin visuaalisesta suunnittelusta. Yritän jatkuvasti kehittää itseäni ja opettelen aina jotain uutta.
+Olen Ville Rissanen, vuonna 2026 valmistunut tradenomi. Tykkään ohjelmoinnista ja etenkin sovellusten suunnittelusta. Yritän jatkuvasti kehittää itseäni ja opettelen aina jotain uutta.
 
 Alapuolelta löytyy minun työkokemukset, koulutukset sekä kaikki projektit ja teokset, jotka olen tehnyt. Lisäksi alapuolelta löyyy taulukko, jossa näkyy ohjelmointikielet, joita olen oppinut.
 
